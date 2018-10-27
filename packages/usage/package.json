@@ -1,8 +1,8 @@
 {
   "name": "@local/usage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
-    "@local/alpha": "^1.0.0",
+    "@local/alpha": "^1.0.1",
     "@local/beta": "^1.0.0"
   },
   "publishConfig": {
